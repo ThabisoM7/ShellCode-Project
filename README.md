@@ -31,11 +31,11 @@ This project is part of my journey to **understand how attackers operate** so I 
 4. **Studied Fileless PowerShell Droppers**  
     Learned how a **fileless dropper** works: instead of writing to disk, it loads and executes code directly in memory.  
     Key points learned:
-      `Invoke-WebRequest` can fetch a remote script (e.g., `shell.ps1`) from an HTTP/S server.  
-      `IEX (Invoke-Expression)` runs the script immediately in memory, leaving fewer traces on disk.  
-      Payloads can be hosted with a simple Python HTTP server.  
-    Understood how attackers use this technique to **evade antivirus and EDR solutions**, which focus on monitoring files written to disk.  
-    Learned that droppers can be tied into **C2 frameworks** (like Empire, Covenant, Mythic, or custom servers) to rotate payloads dynamically — although I only studied the mechanics conceptually.  
+   `Invoke-WebRequest` can fetch a remote script (e.g., `shell.ps1`) from an HTTP/S server.
+   `IEX (Invoke-Expression)` runs the script immediately in memory, leaving fewer traces on disk.  
+   Payloads can be hosted with a simple Python HTTP server.  
+   Understood how attackers use this technique to **evade antivirus and EDR solutions**, which focus on monitoring files written to disk.  
+   Learned that droppers can be tied into **C2 frameworks** (like Empire, Covenant, Mythic, or custom servers) to rotate payloads dynamically — although I only studied the mechanics conceptually.  
 
 ---
 
