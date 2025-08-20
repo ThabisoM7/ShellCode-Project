@@ -12,7 +12,7 @@ The shellcode and droppers used in this lab were **non-malicious**, with the mai
 This project is part of my journey to **understand how attackers operate** so I can better defend against them.
 
 <p align="center">
-  <img src="https://github.com/ThabisoM7/ShellCode-Project/blob/main/Shell%20Code/LAB%20SNABSHOTS/pwsh.jpg" height = 75% width="75%" />
+  <img src="https://github.com/ThabisoM7/ShellCode-Project/blob/main/Shell%20Code/LAB%20SNABSHOTS/pwsh.jpg" height="75%" width="85%" />
 </p>
 
 ---
