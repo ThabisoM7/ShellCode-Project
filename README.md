@@ -12,13 +12,13 @@ This shellcode runner:
 4. **Invokes the shellcode**, causing it to execute.
 
 ---------------------------------------------------------------------------------
-# TOOLS USED:
+# Tools Used:
 METASPLOIT, 
 C++, 
 THE WINDOWS API
 
 ---------------------------------------------------------------------------------
- # CHALLENGES FACED:
+ # Challenges Faced:
 
 Because this behavior (allocating memory with `PAGE_EXECUTE_READWRITE`, writing shellcode, and calling it) **mimics malware**, it's closely monitored and often flagged by EDRs as malicious behavior. Bypassing these detections is an essential part of advanced Red Teaming and threat emulation.
 
