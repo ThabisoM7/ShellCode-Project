@@ -1,6 +1,6 @@
-# ShellCode-Project
+# Shell Code
 
-WITH THE USE OF THE WINDOWS API, I HAVE LEARNT HOW TO EXECUTE MACHINE INSTRUCTION VIA THE EXECUTABLE FILE TO GAIN ARBITRARY READ AND WRITE PRIVELAGES
+WITH THE USE OF THE WINDOWS API AND METASPLOIT, I HAVE LEARNT HOW TO EXECUTE MACHINE INSTRUCTION VIA AN EXECUTABLE TO GAIN ARBITRARY READ AND WRITE PRIVELAGES
 
 **Shellcode** is a sequence of machine-level instructions that **perform specific actions** (e.g., launching a reverse shell, displaying a message, or spawning a process).
 
