@@ -11,9 +11,6 @@ All experiments were performed **strictly for educational purposes** in an isola
 The shellcode and droppers used in this lab were **non-malicious**, with the main payload simply showing a Windows MessageBox.  
 This project is part of my journey to **understand how attackers operate** so I can better defend against them.
 
-<p align="center">
-  <img src="https://github.com/ThabisoM7/ShellCode-Project/blob/main/Shell%20Code/LAB%20SNABSHOTS/pwsh.jpg" height="45%" width="85%" />
-</p>
 
 ---
 
