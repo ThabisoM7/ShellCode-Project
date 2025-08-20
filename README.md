@@ -1,19 +1,19 @@
 # Shellcode Lab – Educational Exercise with Metasploit, C++, and PowerShell
 
-## 📌 Overview
+## Overview
 This project is a **controlled virtual lab environment** where I experimented with:
 - Generating and executing basic shellcode in C++.
 - Understanding how PowerShell can be used to run payloads in a **fileless** manner.
 - Strengthening my knowledge of exploit development, code injection, and defense techniques.
 
-⚠️ **Disclaimer**:  
+ **Disclaimer**:  
 All experiments were performed **strictly for educational purposes** in an isolated virtual machine.  
 The shellcode and droppers used in this lab were **non-malicious**, with the main payload simply showing a Windows MessageBox.  
 This project is part of my journey to **understand how attackers operate** so I can better defend against them.
 
 ---
 
-## 🧪 What I Did
+## What I Did
 1. **Set up a virtual lab**  
    - Isolated Windows VM environment.  
    - Installed Metasploit and Visual Studio for C++ testing.  
@@ -38,7 +38,7 @@ This project is part of my journey to **understand how attackers operate** so I 
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 - **Shellcode Basics**  
   - How machine code payloads work.  
   - Safe generation of payloads using Metasploit.  
@@ -60,16 +60,10 @@ This project is part of my journey to **understand how attackers operate** so I 
 
 ---
 
-## 🚀 Outcome
+## Outcome
 By completing this lab I gained:
 - Practical experience in running shellcode through C++.  
 - A foundational understanding of fileless PowerShell droppers.  
 - Awareness of **how attackers abuse these techniques** and, more importantly, **how defenders can monitor and counter them**.  
 
 ---
-
-## 🔮 Next Steps
-- Explore **detection and logging methods** for fileless PowerShell attacks.  
-- Study **Windows Event Logs & Sysmon** to detect suspicious PowerShell usage.  
-- Practice writing **defensive scripts/rules** to block fileless execution attempts.  
-- Learn how modern EDR tools tackle memory-only payloads.
