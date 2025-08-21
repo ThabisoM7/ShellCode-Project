@@ -1,4 +1,4 @@
-# Shellcode Lab – Educational Exercise with Metasploit, C++, and PowerShell
+# SHELLCODE LAB – Educational Exercise with Metasploit, C++, and PowerShell
 
 ## Overview
 This project is a **controlled virtual lab environment** where I experimented with:
